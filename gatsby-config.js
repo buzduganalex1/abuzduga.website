@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "abuzduga.website",
   },
+  pathPrefix: "/abuzduga-website",
   plugins: [
     "gatsby-plugin-gatsby-cloud",
     "gatsby-plugin-image",
